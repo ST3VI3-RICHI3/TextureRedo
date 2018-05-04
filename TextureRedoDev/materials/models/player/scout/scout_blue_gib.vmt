@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/scout/scout_blue_gib"
+	"$bumpmap" "models/player/scout/scout_normal_gib"
+	"$envmapmask" "models/player/scout/scout_spec_gib"
+	"$envmaptint" "1 0.5 0.5"
+	"$envmap" "env_cubemap"
+
+}
